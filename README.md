@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'am Denis Astahov, AWS Community HERO!
+<img src="certificates.jpg">
+
 
 <!--
 **denis-opsguru/denis-opsguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
